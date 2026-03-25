@@ -10,17 +10,19 @@
 
 Brian Halligan posted that 21 of the Forbes AI 50 companies had founders who went to school in Boston/Cambridge. We traced every founder back to their campus, lab, and career waypoint. The conclusion is uncomfortable: **F-Prime is headquartered in the most productive AI founder ecosystem on the planet, and most of these founders were within a 15-minute walk of our office.**
 
-Here's what we would have gotten if we'd been positioned correctly:
+To be clear: these were non-obvious bets at the time. An AI code editor in 2022 didn't look like a $29B company. A music generation startup from physics PhDs wasn't consensus. An AI chip designed by Harvard undergrads sounded crazy. That's exactly the point — the signal wasn't in the idea, it was in the founders. The talent density in Boston/Cambridge is so extreme that systematic exposure to it would have surfaced these people before anyone had conviction on the market.
 
-| If F-Prime Had... | We Could Have Had... | At What Stage |
+Here's the retrospective:
+
+| If F-Prime Had... | We Would Have Had Access To... | At What Stage |
 |---|---|---|
-| Embedded a scout in MIT EECS by 2020 | First check in **Cursor** (now $29.3B) | Pre-seed, $400K round, 2022 |
-| Tracked Kensho alumni departures in Cambridge | First check in **Suno** (Cambridge-based, $125M Series B) | Seed, 2022 |
-| Monitored Harvard dorm-room AI projects | First check in **Etched** ($5.3M seed, now $3.3B) | Seed, Apr 2023 |
-| Known Alexandr Wang at MIT in 2016 | First check in **Scale AI** (now $14.3B) | Pre-YC, 2016 |
-| Tracked MIT SuperUROP researchers | First check in **Kalshi** (both founders MIT, now $3B+) | Pre-seed, 2018 |
+| Embedded a scout in MIT EECS by 2020 | **Cursor** founders (4 Olympiad medalists building together at MIT) | Pre-seed, $400K round, 2022 |
+| Tracked Kensho alumni departures in Cambridge | **Suno** founding team (all 4 from Kensho, 2 miles from our office) | Seed, 2022 |
+| Monitored Harvard dorm-room AI projects | **Etched** founders (writing 140x GPU improvement paper in dorms) | Seed, Apr 2023 |
+| Known the MIT CS dropout pipeline | **Scale AI**'s Alexandr Wang (taking 5 grad courses as a freshman) | Pre-YC, 2016 |
+| Tracked MIT SuperUROP researchers | **Kalshi** founders (SuperUROP + building a company in their final year) | Pre-seed, 2018 |
 
-These aren't hypotheticals. These founders were physically in Cambridge, taking classes, presenting research, and building prototypes. The window was open.
+Would we have had conviction on every one? No. But being in the room — having the relationship before the round — is what separates first-check investors from Series B tourists. These founders were physically in Cambridge. The access was free. The conviction was the hard part, and you can't develop conviction on founders you never meet.
 
 ---
 
@@ -33,7 +35,7 @@ We already have the network. Of our 89 tech portfolio companies:
 - **Optimus Ride** — Founded by MIT professor Sertac Karaman. Boston-based. We invested.
 - **Nebula Genomics** — George Church (MIT, Harvard PhD, Harvard Medical School). We invested.
 
-**43 of our 89 portfolio companies** have team members with MIT or Harvard backgrounds. We are already in this ecosystem — we just haven't systematized the founder-interception pipeline from it.
+Beyond these headline examples, at least **4 of our active portfolio companies were founded by MIT or Harvard-educated CEOs/CTOs** (Toast, Benchling, Optimus Ride, Nebula Genomics). We've already bet on this ecosystem — we just haven't built a repeatable pipeline to systematically find the next generation of founders coming out of it.
 
 ---
 
@@ -130,13 +132,13 @@ These companies were literally started in our backyard. No flight required.
 - Gaurav Misra: Born in Boston, Boston University CS. Post-BU went to Snap.
 - **Value**: BU is a lower-yield pipeline but the Boston-born-and-educated pattern matters.
 
-### Unverified — Flagged for Further Investigation
+### Unverified — Requires LinkedIn/Harmonic Verification
 
 **20. Crusoe — $3.3B**
-Chase Lochmiller (Stanford) and Cully Cavness (Oxford). Halligan included them, but we couldn't find a Boston school connection. **Hypothesis**: May have early engineering hires from MIT/Harvard, or a co-founder/advisor not visible in public sources. Worth verifying through Harmonic or LinkedIn.
+Chase Lochmiller (Stanford) and Cully Cavness (Oxford Said). Halligan included them, but primary founders don't have a public Boston school connection. **Three hypotheses**: (a) Lochmiller or Cavness may have done undergrad in Boston before grad school elsewhere — LinkedIn deep-dive needed; (b) a less-prominent co-founder or founding engineer may have MIT/Harvard background; (c) Halligan may be counting a key early hire rather than a founder. **Action item**: Pull full Crusoe founding team from Harmonic and cross-reference education fields.
 
 **21. Snorkel AI — $1B+**
-All known founders are Stanford AI Lab (Alex Ratner, Chris Re, Braden Hancock, Henry Ehrenberg). **Hypothesis**: May have a co-founder who did undergrad at MIT/Harvard before Stanford PhD, or early employees from Boston. Worth verifying.
+All four known founders are Stanford AI Lab (Ratner, Re, Hancock, Ehrenberg). **Two hypotheses**: (a) One of the founders may have done undergrad at MIT or Harvard before Stanford PhD — this is a common pattern (Coactive AI's Cody Coleman did exactly this: MIT undergrad → Stanford PhD); (b) Halligan may be counting a founding advisor or early team member. **Action item**: Pull Snorkel AI's first 10 employees from LinkedIn and check undergraduate education. Chris Re's undergrad institution is not publicly documented — worth checking.
 
 ---
 
