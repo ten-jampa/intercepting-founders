@@ -1,0 +1,1253 @@
+{
+  "meta": {
+    "title": "Intercepting Founders: Boston/Cambridge AI Ecosystem Analysis",
+    "source_tweet": "https://x.com/bhalligan/status/2023755925077848207",
+    "source_author": "Brian Halligan (@bhalligan) - Co-founder of HubSpot, Sequoia Capital",
+    "claim": "21 of the Forbes 50 AI companies had founders that went to school in Boston/Cambridge",
+    "compiled_for": "F-Prime Capital (Boston-based VC)",
+    "compiled_date": "2026-03-25",
+    "total_companies": 21,
+    "started_in_school": ["Anysphere (Cursor)", "Etched", "OpenEvidence", "Scale AI"]
+  },
+  "companies": [
+    {
+      "name": "Anysphere (Cursor)",
+      "started_in_school": true,
+      "forbes_ai_50": true,
+      "valuation_note": "$29.3B (Nov 2025)",
+      "hq": "San Francisco, CA (founded in Cambridge, MA)",
+      "founded_year": 2022,
+      "founders": [
+        {
+          "name": "Michael Truell",
+          "role": "CEO & Co-Founder",
+          "school": "MIT",
+          "degree": "BS",
+          "field": "Computer Science",
+          "class_year": "2022",
+          "dropped_out": false,
+          "labs": [],
+          "notable": "Interned at Google, Two Sigma, Octant; USA Computing Olympiad finalist",
+          "confidence": "high"
+        },
+        {
+          "name": "Sualeh Asif",
+          "role": "CPO & Co-Founder",
+          "school": "MIT",
+          "degree": "BS",
+          "field": "Computer Science & Mathematics",
+          "class_year": "2022",
+          "dropped_out": false,
+          "labs": [],
+          "notable": "From Pakistan; International Mathematical Olympiad; interned at IBM (neural machine translation)",
+          "confidence": "high"
+        },
+        {
+          "name": "Arvid Lunnemark",
+          "role": "Co-Founder (departed Oct 2025)",
+          "school": "MIT",
+          "degree": "BS",
+          "field": "Mathematics & Computer Science (double major)",
+          "class_year": "2022",
+          "dropped_out": false,
+          "labs": [],
+          "notable": "International Olympiad in Informatics medalist; interned at Stripe, Jane Street, QuantCo",
+          "confidence": "high"
+        },
+        {
+          "name": "Aman Sanger",
+          "role": "Co-Founder",
+          "school": "MIT",
+          "degree": "BS",
+          "field": "Computer Science",
+          "class_year": "2022",
+          "dropped_out": false,
+          "labs": [],
+          "notable": "Worked at Google, Bridgewater Associates, You.com; medical AI experience",
+          "confidence": "high"
+        }
+      ],
+      "early_employees_boston": [],
+      "accelerators": ["OpenAI Startup Fund/Accelerator (2023)", "Neo Scholars (while at MIT)"],
+      "interception_points": [
+        {
+          "venue": "MIT EECS Department",
+          "type": "academic_department",
+          "timing": "2018-2022",
+          "confidence": "high",
+          "note": "All 4 founders were MIT CS/Math undergrads"
+        },
+        {
+          "venue": "Neo Scholars Program",
+          "type": "fellowship",
+          "timing": "2020-2022",
+          "confidence": "high",
+          "note": "Participated in Ali Partovi's mentorship program for technical undergrads"
+        },
+        {
+          "venue": "International Olympiad pipelines",
+          "type": "competition_network",
+          "timing": "Pre-2018",
+          "confidence": "medium",
+          "note": "Multiple founders were IMO/IOI medalists before arriving at MIT"
+        }
+      ]
+    },
+    {
+      "name": "Captions",
+      "started_in_school": false,
+      "forbes_ai_50": true,
+      "hq": "New York, NY",
+      "founded_year": 2021,
+      "founders": [
+        {
+          "name": "Gaurav Misra",
+          "role": "Co-Founder & CEO",
+          "school": "Boston University",
+          "degree": "BS",
+          "field": "Computer Science",
+          "class_year": "unknown",
+          "dropped_out": false,
+          "labs": [],
+          "notable": "Born in Boston, grew up in New Delhi; previously Head of Design Engineering at Snap Inc.",
+          "confidence": "high"
+        }
+      ],
+      "early_employees_boston": [],
+      "accelerators": [],
+      "interception_points": [
+        {
+          "venue": "Boston University CS Department",
+          "type": "academic_department",
+          "timing": "unknown",
+          "confidence": "high",
+          "note": "Studied CS at BU before career at Snap"
+        }
+      ]
+    },
+    {
+      "name": "Cerebras Systems",
+      "started_in_school": false,
+      "forbes_ai_50": true,
+      "hq": "Sunnyvale, CA",
+      "founded_year": 2015,
+      "founders": [
+        {
+          "name": "Sean Lie",
+          "role": "CTO & Co-Founder",
+          "school": "MIT",
+          "degree": "BSEE",
+          "field": "Electrical Engineering",
+          "class_year": "early 2000s (estimated)",
+          "dropped_out": false,
+          "labs": [],
+          "notable": "Chief Hardware Architect; previously lead architect at SeaMicro, Fellow at AMD; invited speaker at MIT MTL (2022)",
+          "confidence": "high"
+        },
+        {
+          "name": "Andrew Feldman",
+          "role": "CEO & Co-Founder",
+          "school": "Stanford GSB",
+          "degree": "MBA",
+          "field": "Business",
+          "class_year": "unknown",
+          "dropped_out": false,
+          "labs": [],
+          "notable": "Previously co-founded SeaMicro (acquired by AMD)",
+          "confidence": "high"
+        }
+      ],
+      "early_employees_boston": [],
+      "accelerators": [],
+      "interception_points": [
+        {
+          "venue": "MIT EE Department",
+          "type": "academic_department",
+          "timing": "early 2000s",
+          "confidence": "medium",
+          "note": "Sean Lie's BSEE from MIT; 15+ year gap before founding Cerebras"
+        }
+      ]
+    },
+    {
+      "name": "Coactive AI",
+      "started_in_school": false,
+      "forbes_ai_50": true,
+      "hq": "San Jose, CA",
+      "founded_year": 2021,
+      "founders": [
+        {
+          "name": "Cody Coleman",
+          "role": "CEO & Co-Founder",
+          "school": "MIT",
+          "degree": "BS",
+          "field": "Electrical Engineering & Computer Science",
+          "class_year": "~2016-2017",
+          "dropped_out": false,
+          "labs": [],
+          "notable": "QuestBridge Scholar at MIT; Stanford PhD under Matei Zaharia (Databricks CTO); NSF Fellow",
+          "confidence": "high"
+        },
+        {
+          "name": "William Gaviria Rojas",
+          "role": "Field CTO & Co-Founder",
+          "school": "MIT",
+          "degree": "BS",
+          "field": "Electrical Engineering",
+          "class_year": "unknown",
+          "dropped_out": false,
+          "labs": [],
+          "notable": "Originally from Colombia, came to US as refugee; Northwestern PhD in Materials Science",
+          "confidence": "high"
+        }
+      ],
+      "early_employees_boston": [],
+      "accelerators": [],
+      "interception_points": [
+        {
+          "venue": "MIT EECS Department",
+          "type": "academic_department",
+          "timing": "~2013-2017",
+          "confidence": "high",
+          "note": "Both founders were MIT EECS undergrads"
+        },
+        {
+          "venue": "QuestBridge Scholars at MIT",
+          "type": "fellowship",
+          "timing": "~2013-2017",
+          "confidence": "high",
+          "note": "Cody Coleman was a QuestBridge Scholar - remarkable background story"
+        }
+      ]
+    },
+    {
+      "name": "Codeium (Windsurf)",
+      "started_in_school": false,
+      "forbes_ai_50": true,
+      "hq": "Sunnyvale, CA",
+      "founded_year": 2021,
+      "founders": [
+        {
+          "name": "Varun Mohan",
+          "role": "CEO & Co-Founder",
+          "school": "MIT",
+          "degree": "BS",
+          "field": "Computer Science & Electrical Engineering",
+          "class_year": "~2019",
+          "dropped_out": false,
+          "labs": [],
+          "notable": "Described as 'math prodigy'; later hired by Google DeepMind (2025)",
+          "confidence": "high"
+        },
+        {
+          "name": "Douglas Chen",
+          "role": "Co-Founder",
+          "school": "MIT",
+          "degree": "unknown",
+          "field": "Computer Science (likely)",
+          "class_year": "~2019",
+          "dropped_out": false,
+          "labs": [],
+          "notable": "Previously ML Engineer at Facebook, Research Engineer at Matician; later joined Google DeepMind",
+          "confidence": "high"
+        }
+      ],
+      "early_employees_boston": [],
+      "accelerators": [],
+      "interception_points": [
+        {
+          "venue": "MIT EECS Department",
+          "type": "academic_department",
+          "timing": "~2015-2019",
+          "confidence": "high",
+          "note": "Both founders attended MIT; specific labs unknown"
+        }
+      ]
+    },
+    {
+      "name": "Crusoe",
+      "started_in_school": false,
+      "forbes_ai_50": true,
+      "hq": "Denver, CO",
+      "founded_year": 2018,
+      "founders": [
+        {
+          "name": "Chase Lochmiller",
+          "role": "CEO & Co-Founder",
+          "school": "Stanford University",
+          "degree": "unknown",
+          "field": "Computer Science",
+          "class_year": "unknown",
+          "dropped_out": false,
+          "labs": [],
+          "notable": "Previously at Polychain Capital; building Stargate for OpenAI",
+          "confidence": "high"
+        },
+        {
+          "name": "Cully Cavness",
+          "role": "President & Co-Founder",
+          "school": "Said Business School, University of Oxford",
+          "degree": "MBA",
+          "field": "Business",
+          "class_year": "unknown",
+          "dropped_out": false,
+          "labs": [],
+          "notable": "Energy industry background",
+          "confidence": "high"
+        }
+      ],
+      "early_employees_boston": [],
+      "accelerators": [],
+      "boston_connection_note": "UNVERIFIED: Included in Halligan's list but no confirmed Boston/Cambridge school connection found for primary founders. May have early team members from Boston schools, or a connection not found in public sources.",
+      "interception_points": []
+    },
+    {
+      "name": "Databricks",
+      "started_in_school": false,
+      "forbes_ai_50": true,
+      "valuation_note": "$62B (Dec 2024)",
+      "hq": "San Francisco, CA",
+      "founded_year": 2013,
+      "founders": [
+        {
+          "name": "Matei Zaharia",
+          "role": "CTO & Co-Founder",
+          "school": "MIT (faculty), UC Berkeley (PhD), U of Waterloo (BS)",
+          "degree": "Faculty appointment",
+          "field": "Computer Science - CSAIL",
+          "class_year": "MIT faculty 2015-2018",
+          "dropped_out": false,
+          "labs": ["MIT CSAIL - PDOS group", "MIT bigdata@CSAIL"],
+          "notable": "Created Apache Spark; MIT CSAIL Assistant Professor 2015-2018; now at UC Berkeley",
+          "confidence": "high"
+        },
+        {
+          "name": "Andy Konwinski",
+          "role": "Co-Founder",
+          "school": "UC Berkeley",
+          "degree": "PhD",
+          "field": "Computer Science",
+          "class_year": "unknown",
+          "dropped_out": false,
+          "labs": [],
+          "notable": "Also co-founded Perplexity AI; now runs Laude Ventures",
+          "confidence": "high"
+        }
+      ],
+      "early_employees_boston": [],
+      "accelerators": [],
+      "interception_points": [
+        {
+          "venue": "MIT CSAIL (PDOS group, bigdata@CSAIL)",
+          "type": "research_lab",
+          "timing": "2015-2018",
+          "confidence": "high",
+          "note": "Zaharia was MIT faculty after Databricks was already founded; interception value is for follow-on relationships and pipeline from his students (e.g., Cody Coleman)"
+        }
+      ]
+    },
+    {
+      "name": "Decagon",
+      "started_in_school": false,
+      "forbes_ai_50": true,
+      "hq": "San Francisco, CA",
+      "founded_year": 2023,
+      "founders": [
+        {
+          "name": "Jesse Zhang",
+          "role": "CEO & Co-Founder",
+          "school": "Harvard",
+          "degree": "BS",
+          "field": "Computer Science",
+          "class_year": "2019",
+          "dropped_out": false,
+          "labs": [],
+          "notable": "Grew up in Boulder; math contest background; interned at Google, Citadel, HRT; previously founded Lowkey (YC-backed, acquired by Niantic)",
+          "confidence": "high"
+        },
+        {
+          "name": "Ashwin Sreenivas",
+          "role": "Co-Founder",
+          "school": "Stanford",
+          "degree": "unknown",
+          "field": "Computer Science",
+          "class_year": "unknown",
+          "dropped_out": false,
+          "labs": [],
+          "notable": "",
+          "confidence": "medium"
+        }
+      ],
+      "early_employees_boston": [],
+      "accelerators": ["Y Combinator (for prior startup Lowkey)"],
+      "interception_points": [
+        {
+          "venue": "Harvard CS Department",
+          "type": "academic_department",
+          "timing": "2015-2019",
+          "confidence": "high",
+          "note": "Jesse Zhang was Harvard CS '19; strong competitive programming background"
+        }
+      ]
+    },
+    {
+      "name": "Etched",
+      "started_in_school": true,
+      "forbes_ai_50": true,
+      "hq": "Cupertino, CA (founded in Cambridge, MA)",
+      "founded_year": 2022,
+      "founders": [
+        {
+          "name": "Gavin Uberti",
+          "role": "CEO & Co-Founder",
+          "school": "Harvard",
+          "degree": "Dropped out",
+          "field": "Mathematics & Computer Science",
+          "class_year": "2025 (entered ~Fall 2021)",
+          "dropped_out": true,
+          "labs": [],
+          "notable": "2024 Thiel Fellow; developed ARM Cortex-M backend for Apache TVM",
+          "confidence": "high"
+        },
+        {
+          "name": "Chris Zhu",
+          "role": "CTO & Co-Founder",
+          "school": "Harvard",
+          "degree": "Dropped out",
+          "field": "Mathematics & Computer Science",
+          "class_year": "2024 (entered ~Fall 2020)",
+          "dropped_out": true,
+          "labs": [],
+          "notable": "2024 Thiel Fellow; took classes on operating models at scale and networking computers efficiently",
+          "confidence": "high"
+        },
+        {
+          "name": "Robert Wachen",
+          "role": "COO & Co-Founder",
+          "school": "Harvard",
+          "degree": "Dropped out",
+          "field": "unknown",
+          "class_year": "2024 (entered ~Fall 2020)",
+          "dropped_out": true,
+          "labs": [],
+          "notable": "2024 Thiel Fellow; operational/business focus",
+          "confidence": "high"
+        }
+      ],
+      "early_employees_boston": [],
+      "accelerators": ["Thiel Fellowship (2024 class)"],
+      "interception_points": [
+        {
+          "venue": "Harvard SEAS (Math/CS classes)",
+          "type": "academic_department",
+          "timing": "2020-2023",
+          "confidence": "high",
+          "note": "All 3 founders were Harvard undergrads taking math/CS classes; dorm room project Oct 2022"
+        },
+        {
+          "venue": "Harvard campus entrepreneurial community",
+          "type": "campus_ecosystem",
+          "timing": "Oct 2022 - Apr 2023",
+          "confidence": "high",
+          "note": "6-month window from incorporation to seed round while still students"
+        }
+      ]
+    },
+    {
+      "name": "Kalshi",
+      "started_in_school": false,
+      "forbes_ai_50": true,
+      "hq": "New York, NY",
+      "founded_year": 2018,
+      "founders": [
+        {
+          "name": "Tarek Mansour",
+          "role": "CEO & Co-Founder",
+          "school": "MIT",
+          "degree": "BS + MNG (Master of Engineering)",
+          "field": "EECS",
+          "class_year": "BS 2018, MNG 2019",
+          "dropped_out": false,
+          "labs": ["MIT EECS - SuperUROP (deep learning for breast cancer prediction)"],
+          "notable": "Born in California, grew up in Lebanon, returned to US for MIT; Angle Undergraduate Research Scholar",
+          "confidence": "high"
+        },
+        {
+          "name": "Luana Lopes Lara",
+          "role": "COO & Co-Founder",
+          "school": "MIT",
+          "degree": "BS",
+          "field": "Computer Science",
+          "class_year": "2018",
+          "dropped_out": false,
+          "labs": [],
+          "notable": "Former professional ballerina (trained at Bolshoi); world's youngest self-made woman billionaire (2025); interned at Bridgewater, Citadel, Five Rings",
+          "confidence": "high"
+        }
+      ],
+      "early_employees_boston": [],
+      "accelerators": ["Y Combinator (W19 batch)"],
+      "interception_points": [
+        {
+          "venue": "MIT EECS Department / SuperUROP",
+          "type": "academic_department",
+          "timing": "2014-2019",
+          "confidence": "high",
+          "note": "Both founders were MIT EECS; Tarek did SuperUROP in deep learning; founded Kalshi in final year"
+        },
+        {
+          "venue": "MIT entrepreneurship ecosystem",
+          "type": "campus_ecosystem",
+          "timing": "2017-2018",
+          "confidence": "high",
+          "note": "Founded while still at MIT, before entering YC W19"
+        }
+      ]
+    },
+    {
+      "name": "OpenAI",
+      "started_in_school": false,
+      "forbes_ai_50": true,
+      "hq": "San Francisco, CA",
+      "founded_year": 2015,
+      "founders": [
+        {
+          "name": "Greg Brockman",
+          "role": "President & Co-Founder",
+          "school": "Harvard (1yr, 2008) + MIT (briefly, 2009-2010)",
+          "degree": "Dropped out of both",
+          "field": "Computer Science",
+          "class_year": "Harvard 2008, MIT 2009-2010",
+          "dropped_out": true,
+          "labs": [],
+          "notable": "Left MIT to join Stripe (employee #4); became CTO of Stripe before co-founding OpenAI",
+          "confidence": "high"
+        },
+        {
+          "name": "Trevor Blackwell",
+          "role": "Co-Founder",
+          "school": "Harvard",
+          "degree": "PhD",
+          "field": "Computer Science",
+          "class_year": "unknown",
+          "dropped_out": false,
+          "labs": [],
+          "notable": "Also co-founded Y Combinator; roboticist",
+          "confidence": "medium"
+        }
+      ],
+      "early_employees_boston": [],
+      "accelerators": [],
+      "interception_points": [
+        {
+          "venue": "Harvard / MIT (Brockman)",
+          "type": "academic_department",
+          "timing": "2008-2010",
+          "confidence": "high",
+          "note": "Very brief; 5+ years before OpenAI founding; limited interception value for OpenAI specifically"
+        }
+      ]
+    },
+    {
+      "name": "OpenEvidence",
+      "started_in_school": true,
+      "forbes_ai_50": true,
+      "hq": "Miami Beach, FL",
+      "founded_year": 2022,
+      "founders": [
+        {
+          "name": "Daniel Nadler",
+          "role": "Founder & CEO",
+          "school": "Harvard",
+          "degree": "PhD",
+          "field": "Political Economy / Applied Math (interdisciplinary)",
+          "class_year": "PhD 2016",
+          "dropped_out": false,
+          "labs": [],
+          "notable": "Also studied poetry under Jorie Graham (Pulitzer winner); founded Kensho Technologies (2013) while PhD student, sold to S&P Global for $550M; visiting scholar at Federal Reserve during PhD",
+          "confidence": "high"
+        }
+      ],
+      "early_employees_boston": [],
+      "accelerators": [],
+      "kensho_connection": "Daniel Nadler founded Kensho Technologies in Cambridge, MA in 2013 while a Harvard PhD student. Kensho became a critical talent pipeline - all 4 Suno founders worked there.",
+      "interception_points": [
+        {
+          "venue": "Harvard Graduate School of Arts and Sciences",
+          "type": "academic_department",
+          "timing": "2010-2016",
+          "confidence": "high",
+          "note": "PhD student; founded Kensho in 2013 while still at Harvard"
+        },
+        {
+          "venue": "Kensho Technologies (Cambridge, MA)",
+          "type": "startup_hub",
+          "timing": "2013-2018",
+          "confidence": "high",
+          "note": "Kensho was a Cambridge-based AI company and major talent pipeline"
+        }
+      ]
+    },
+    {
+      "name": "Perplexity AI",
+      "started_in_school": false,
+      "forbes_ai_50": true,
+      "hq": "San Francisco, CA",
+      "founded_year": 2022,
+      "founders": [
+        {
+          "name": "Johnny Ho",
+          "role": "CSO & Co-Founder",
+          "school": "Harvard",
+          "degree": "unknown",
+          "field": "Computer Science (likely)",
+          "class_year": "unknown",
+          "dropped_out": false,
+          "labs": [],
+          "notable": "3x gold medalist at International Olympiad in Informatics; previously at Tower Research Capital and Quora",
+          "confidence": "high"
+        },
+        {
+          "name": "Aravind Srinivas",
+          "role": "CEO & Co-Founder",
+          "school": "UC Berkeley (PhD), IIT Madras (BS)",
+          "degree": "PhD",
+          "field": "Computer Science",
+          "class_year": "unknown",
+          "dropped_out": false,
+          "labs": [],
+          "notable": "Internships at DeepMind, Google, OpenAI before founding",
+          "confidence": "high"
+        },
+        {
+          "name": "Denis Yarats",
+          "role": "CTO & Co-Founder",
+          "school": "NYU",
+          "degree": "PhD",
+          "field": "Computer Science",
+          "class_year": "unknown",
+          "dropped_out": false,
+          "labs": [],
+          "notable": "Previously at Meta AI (FAIR)",
+          "confidence": "high"
+        },
+        {
+          "name": "Andy Konwinski",
+          "role": "Co-Founder",
+          "school": "UC Berkeley",
+          "degree": "PhD",
+          "field": "Computer Science",
+          "class_year": "unknown",
+          "dropped_out": false,
+          "labs": [],
+          "notable": "Also co-founded Databricks; now runs Laude Ventures + Laude Institute ($100M)",
+          "confidence": "high"
+        }
+      ],
+      "early_employees_boston": [],
+      "accelerators": [],
+      "interception_points": [
+        {
+          "venue": "Harvard (Johnny Ho)",
+          "type": "academic_department",
+          "timing": "unknown",
+          "confidence": "high",
+          "note": "Johnny Ho attended Harvard per LinkedIn; IOI gold medalist pipeline"
+        }
+      ]
+    },
+    {
+      "name": "Pika",
+      "started_in_school": false,
+      "forbes_ai_50": true,
+      "hq": "Palo Alto, CA",
+      "founded_year": 2023,
+      "founders": [
+        {
+          "name": "Demi Guo",
+          "role": "CEO & Co-Founder",
+          "school": "Harvard",
+          "degree": "BA + MS",
+          "field": "Mathematics (BA) + Computer Science (MS)",
+          "class_year": "~2022",
+          "dropped_out": false,
+          "labs": ["Harvard NLP Group (Alexander Rush lab)"],
+          "notable": "5,985 Google Scholar citations; published extensively in NLP (ACL 2021); dropped out of Stanford PhD to co-found Pika",
+          "confidence": "high"
+        },
+        {
+          "name": "Chenlin Meng",
+          "role": "CTO & Co-Founder",
+          "school": "Stanford",
+          "degree": "PhD",
+          "field": "Computer Science",
+          "class_year": "unknown",
+          "dropped_out": true,
+          "labs": [],
+          "notable": "Key researcher in diffusion models (DDIM); dropped out of Stanford PhD",
+          "confidence": "high"
+        }
+      ],
+      "early_employees_boston": [],
+      "accelerators": [],
+      "interception_points": [
+        {
+          "venue": "Harvard NLP Group (Alexander Rush Lab)",
+          "type": "research_lab",
+          "timing": "2018-2022",
+          "confidence": "high",
+          "note": "Demi Guo was a star researcher in Rush's lab; published at top venues"
+        },
+        {
+          "venue": "Harvard SEAS CS program",
+          "type": "academic_department",
+          "timing": "2018-2022",
+          "confidence": "high",
+          "note": "Dual BA Math + MS CS at Harvard"
+        }
+      ]
+    },
+    {
+      "name": "Scale AI",
+      "started_in_school": true,
+      "forbes_ai_50": true,
+      "hq": "San Francisco, CA",
+      "founded_year": 2016,
+      "founders": [
+        {
+          "name": "Alexandr Wang",
+          "role": "CEO & Co-Founder",
+          "school": "MIT",
+          "degree": "Dropped out",
+          "field": "Computer Science (likely)",
+          "class_year": "entered ~2016, left after ~1 year",
+          "dropped_out": true,
+          "labs": [],
+          "notable": "Born in Los Alamos, NM to nuclear physicist parents; previously worked at Quora as teenager; now also Meta Chief AI Officer; took 5 grad courses at MIT in brief tenure",
+          "confidence": "high"
+        },
+        {
+          "name": "Lucy Guo",
+          "role": "Co-Founder (departed)",
+          "school": "Carnegie Mellon University",
+          "degree": "unknown",
+          "field": "Computer Science",
+          "class_year": "unknown",
+          "dropped_out": false,
+          "labs": [],
+          "notable": "Previously Snapchat's first female designer; met Wang at Quora",
+          "confidence": "high"
+        }
+      ],
+      "early_employees_boston": [],
+      "accelerators": ["Y Combinator (S16 batch)"],
+      "interception_points": [
+        {
+          "venue": "MIT (brief enrollment)",
+          "type": "academic_department",
+          "timing": "~2016",
+          "confidence": "high",
+          "note": "Very narrow window (~1 year); Wang left quickly for YC and Silicon Valley"
+        }
+      ]
+    },
+    {
+      "name": "Snorkel AI",
+      "started_in_school": false,
+      "forbes_ai_50": true,
+      "hq": "Redwood City, CA",
+      "founded_year": 2019,
+      "founders": [
+        {
+          "name": "Alex Ratner",
+          "role": "CEO & Co-Founder",
+          "school": "Stanford",
+          "degree": "PhD",
+          "field": "Computer Science",
+          "class_year": "unknown",
+          "dropped_out": false,
+          "labs": ["Stanford AI Lab (Christopher Re's group)"],
+          "notable": "Now also Affiliate Asst. Prof at University of Washington",
+          "confidence": "high"
+        },
+        {
+          "name": "Christopher Re",
+          "role": "Co-Founder",
+          "school": "Stanford (faculty), University of Washington (PhD)",
+          "degree": "Faculty",
+          "field": "Computer Science",
+          "class_year": "unknown",
+          "dropped_out": false,
+          "labs": ["Stanford AI Lab"],
+          "notable": "MacArthur genius grant winner; Stanford professor",
+          "confidence": "high"
+        },
+        {
+          "name": "Braden Hancock",
+          "role": "Co-Founder",
+          "school": "Stanford",
+          "degree": "PhD",
+          "field": "Computer Science",
+          "class_year": "unknown",
+          "dropped_out": false,
+          "labs": ["Stanford AI Lab"],
+          "notable": "Now at Laude Institute with Andy Konwinski",
+          "confidence": "high"
+        },
+        {
+          "name": "Henry Ehrenberg",
+          "role": "Co-Founder",
+          "school": "Stanford",
+          "degree": "unknown",
+          "field": "Computer Science",
+          "class_year": "unknown",
+          "dropped_out": false,
+          "labs": ["Stanford AI Lab"],
+          "notable": "Core team since Snorkel's origins in Stanford AI Lab",
+          "confidence": "high"
+        }
+      ],
+      "early_employees_boston": [],
+      "accelerators": [],
+      "boston_connection_note": "UNVERIFIED: Included in Halligan's list but all known founders are Stanford-affiliated. Boston connection may be through early employees or a connection not found in public sources.",
+      "interception_points": []
+    },
+    {
+      "name": "Speak",
+      "started_in_school": false,
+      "forbes_ai_50": true,
+      "hq": "San Francisco, CA",
+      "founded_year": 2016,
+      "founders": [
+        {
+          "name": "Connor Zwick",
+          "role": "CEO & Co-Founder",
+          "school": "Harvard",
+          "degree": "Dropped out",
+          "field": "Romance Languages (contemplated); CS/EE self-taught",
+          "class_year": "2015 (entered ~Fall 2011, left 2012)",
+          "dropped_out": true,
+          "labs": [],
+          "notable": "2012 Thiel Fellow ($100K); previously created Flashcards+ (top US education app, acquired by Chegg); mentioned Harvard i-lab as valuable",
+          "confidence": "high"
+        },
+        {
+          "name": "Andrew D. Hsu",
+          "role": "Co-Founder",
+          "school": "unknown",
+          "degree": "unknown",
+          "field": "unknown",
+          "class_year": "unknown",
+          "dropped_out": false,
+          "labs": [],
+          "notable": "American-Taiwanese co-founder of Speak",
+          "confidence": "low"
+        }
+      ],
+      "early_employees_boston": [],
+      "accelerators": ["Thiel Fellowship (2012 class)", "OpenAI Startup Fund (Series B lead, 2022)"],
+      "interception_points": [
+        {
+          "venue": "Harvard (very brief)",
+          "type": "academic_department",
+          "timing": "Fall 2011 - Spring 2012",
+          "confidence": "high",
+          "note": "Less than 1 year at Harvard; already had top-ranked app before arriving"
+        },
+        {
+          "venue": "Harvard Innovation Lab (i-lab)",
+          "type": "incubator",
+          "timing": "2011-2012",
+          "confidence": "medium",
+          "note": "Zwick specifically mentioned i-lab resources as valuable"
+        }
+      ]
+    },
+    {
+      "name": "Suno",
+      "started_in_school": false,
+      "forbes_ai_50": true,
+      "hq": "Cambridge, MA",
+      "founded_year": 2022,
+      "founders": [
+        {
+          "name": "Mikey (Michael) Shulman",
+          "role": "CEO & Co-Founder",
+          "school": "Harvard",
+          "degree": "PhD",
+          "field": "Physics (Quantum Information - Yacoby Lab)",
+          "class_year": "PhD ~2015",
+          "dropped_out": false,
+          "labs": ["Harvard Physics - Yacoby Lab (quantum computing/spin qubits)"],
+          "notable": "First ML hire and Head of ML at Kensho; MIT Sloan lecturer since 2018; thesis: 'Entanglement and Metrology with Singlet-Triplet Qubits'",
+          "confidence": "high"
+        },
+        {
+          "name": "Georg Kucsko",
+          "role": "CTO & Co-Founder",
+          "school": "Harvard",
+          "degree": "PhD",
+          "field": "Physics (Quantum Optics - Lukin Group)",
+          "class_year": "PhD ~2017",
+          "dropped_out": false,
+          "labs": ["Harvard Physics - Lukin Group (quantum optics, atom arrays)", "MIT-Harvard Center for Ultracold Atoms (CUA)"],
+          "notable": "Thesis: 'Coupled Spins in Diamond: From Quantum Control to Metrology and Many-Body Physics'",
+          "confidence": "high"
+        },
+        {
+          "name": "Martin Camacho",
+          "role": "CPO & Co-Founder",
+          "school": "Harvard",
+          "degree": "BS",
+          "field": "Computer Science & Mathematics",
+          "class_year": "graduated at age 18 (~2015-2017)",
+          "dropped_out": false,
+          "labs": [],
+          "notable": "Graduated Harvard at age 18; Chief Architect at Kensho; then Firefly Health",
+          "confidence": "high"
+        },
+        {
+          "name": "Keenan Freyberg",
+          "role": "COO & Co-Founder",
+          "school": "George Washington University",
+          "degree": "unknown",
+          "field": "unknown",
+          "class_year": "unknown",
+          "dropped_out": false,
+          "labs": [],
+          "notable": "Head of Strategic Initiatives at Kensho before Suno",
+          "confidence": "high"
+        }
+      ],
+      "early_employees_boston": [],
+      "accelerators": [],
+      "kensho_connection": "All 4 founders worked at Kensho Technologies in Cambridge, MA before founding Suno. Kensho was founded by Daniel Nadler (OpenEvidence founder) while at Harvard.",
+      "interception_points": [
+        {
+          "venue": "Harvard Physics Department (Yacoby Lab, Lukin Group)",
+          "type": "research_lab",
+          "timing": "2010-2017",
+          "confidence": "high",
+          "note": "Shulman and Kucsko were in elite Harvard physics labs; physics-to-ML pipeline"
+        },
+        {
+          "venue": "Kensho Technologies (Cambridge, MA)",
+          "type": "startup_hub",
+          "timing": "2015-2022",
+          "confidence": "high",
+          "note": "All 4 founders worked at Kensho in Cambridge; this was the incubation period"
+        },
+        {
+          "venue": "MIT Sloan School of Management",
+          "type": "academic_department",
+          "timing": "2018-present",
+          "confidence": "high",
+          "note": "Mikey Shulman has been a lecturer at MIT Sloan since 2018"
+        },
+        {
+          "venue": "MIT-Harvard Center for Ultracold Atoms (CUA)",
+          "type": "research_lab",
+          "timing": "2010s",
+          "confidence": "high",
+          "note": "Georg Kucsko was part of this joint MIT-Harvard research center"
+        }
+      ]
+    },
+    {
+      "name": "Together AI",
+      "started_in_school": false,
+      "forbes_ai_50": true,
+      "hq": "San Francisco, CA",
+      "founded_year": 2022,
+      "founders": [
+        {
+          "name": "Vipul Ved Prakash",
+          "role": "CEO & Co-Founder",
+          "school": "IIT Bombay",
+          "degree": "BTech",
+          "field": "Computer Science",
+          "class_year": "unknown",
+          "dropped_out": false,
+          "labs": [],
+          "notable": "Previously co-founded Cloudmark and Topsy (acquired by Apple)",
+          "confidence": "high"
+        },
+        {
+          "name": "Ce Zhang",
+          "role": "CTO & Co-Founder",
+          "school": "University of Wisconsin-Madison (PhD), ETH Zurich (faculty)",
+          "degree": "PhD",
+          "field": "Computer Science",
+          "class_year": "unknown",
+          "dropped_out": false,
+          "labs": [],
+          "notable": "Now also Neubauer Associate Professor at UChicago",
+          "confidence": "high"
+        },
+        {
+          "name": "Percy Liang",
+          "role": "Co-Founder / Chief Scientist",
+          "school": "MIT (BS 2004, MEng 2005), UC Berkeley (PhD 2011)",
+          "degree": "BS + MEng",
+          "field": "Computer Science",
+          "class_year": "BS 2004, MEng 2005",
+          "dropped_out": false,
+          "labs": [],
+          "notable": "Stanford CS professor; Director of Center for Research on Foundation Models (CRFM); IOI bronze/silver medalist; NSF CAREER Award; IJCAI Computers and Thought Award",
+          "confidence": "high"
+        }
+      ],
+      "early_employees_boston": [],
+      "accelerators": [],
+      "interception_points": [
+        {
+          "venue": "MIT (Percy Liang undergrad)",
+          "type": "academic_department",
+          "timing": "2000-2005",
+          "confidence": "high",
+          "note": "Percy Liang did BS (2004) and MEng (2005) at MIT; long before Together AI (2022) but establishes the Boston school connection"
+        }
+      ]
+    },
+    {
+      "name": "Writer",
+      "started_in_school": false,
+      "forbes_ai_50": true,
+      "hq": "San Francisco, CA",
+      "founded_year": 2020,
+      "founders": [
+        {
+          "name": "May Habib",
+          "role": "CEO & Co-Founder",
+          "school": "Harvard",
+          "degree": "BA (double)",
+          "field": "Economics + Near Eastern Languages & Civilizations",
+          "class_year": "2007",
+          "dropped_out": false,
+          "labs": [],
+          "notable": "Contributed to The Harvard Crimson; career in finance/investment banking before NLP/ML work; previously founded Qordoba (precursor to Writer)",
+          "confidence": "high"
+        }
+      ],
+      "early_employees_boston": [],
+      "accelerators": [],
+      "interception_points": [
+        {
+          "venue": "Harvard College",
+          "type": "academic_department",
+          "timing": "2003-2007",
+          "confidence": "high",
+          "note": "Earlier-generation Harvard alum; Harvard time predates current AI wave significantly"
+        }
+      ]
+    },
+    {
+      "name": "LangChain",
+      "started_in_school": false,
+      "forbes_ai_50": true,
+      "hq": "San Francisco, CA",
+      "founded_year": 2022,
+      "founders": [
+        {
+          "name": "Harrison Chase",
+          "role": "CEO & Co-Founder",
+          "school": "Harvard",
+          "degree": "BA",
+          "field": "Statistics & Computer Science",
+          "class_year": "~2017",
+          "dropped_out": false,
+          "labs": [],
+          "notable": "Post-Harvard worked at Robust Intelligence (ML engineer); possible stint at Kensho Technologies in Cambridge",
+          "confidence": "high"
+        }
+      ],
+      "early_employees_boston": [],
+      "accelerators": [],
+      "interception_points": [
+        {
+          "venue": "Harvard Statistics/CS Department",
+          "type": "academic_department",
+          "timing": "~2013-2017",
+          "confidence": "high",
+          "note": "Undergrad at Harvard in statistics and CS"
+        },
+        {
+          "venue": "Kensho Technologies (Cambridge, MA) - possible",
+          "type": "startup_hub",
+          "timing": "~2017-2019",
+          "confidence": "low",
+          "note": "Unconfirmed but plausible based on timeline and Boston AI ecosystem"
+        }
+      ]
+    }
+  ],
+  "interception_clusters": [
+    {
+      "cluster": "MIT EECS / Computer Science",
+      "companies": ["Anysphere (Cursor)", "Scale AI", "Kalshi", "Codeium (Windsurf)", "Coactive AI", "Cerebras Systems"],
+      "estimated_interceptable_founders": 12,
+      "peak_years": "2014-2022",
+      "key_signals": ["International Olympiad participants", "SuperUROP researchers", "Neo Scholars", "QuestBridge Scholars"],
+      "interception_tactics": [
+        "Sponsor MIT EECS events and hackathons",
+        "Build relationships with MIT EECS faculty (especially AI/ML professors)",
+        "Monitor SuperUROP project presentations",
+        "Track Neo Scholars cohorts at MIT",
+        "Attend MIT delta v Demo Day annually",
+        "Office hours at MIT Martin Trust Center for Entrepreneurship"
+      ]
+    },
+    {
+      "cluster": "Harvard CS / SEAS",
+      "companies": ["Etched", "Pika", "Decagon", "LangChain", "Perplexity AI"],
+      "estimated_interceptable_founders": 7,
+      "peak_years": "2015-2023",
+      "key_signals": ["Star researchers in faculty labs (especially NLP)", "Competitive programming medalists", "Students building side projects"],
+      "interception_tactics": [
+        "Guest lecture in Harvard CS50 and upper-level AI courses",
+        "Build relationship with Alexander Rush (NLP) and other AI faculty",
+        "Sponsor Harvard i-lab events",
+        "Attend Harvard CS demo days and research showcases",
+        "Track Thiel Fellowship recipients from Harvard"
+      ]
+    },
+    {
+      "cluster": "Harvard Physics (PhD pipeline)",
+      "companies": ["Suno"],
+      "estimated_interceptable_founders": 3,
+      "peak_years": "2010-2017",
+      "key_signals": ["Physics PhDs pivoting to ML/AI", "Quantum computing researchers", "Physicists joining Cambridge AI startups"],
+      "interception_tactics": [
+        "Monitor Harvard Physics PhD graduates transitioning to industry",
+        "Build relationships with Yacoby Lab and Lukin Group",
+        "Track MIT-Harvard Center for Ultracold Atoms alumni",
+        "Watch for physics-to-ML career pivots in Cambridge"
+      ]
+    },
+    {
+      "cluster": "Kensho Technologies (Cambridge, MA) alumni network",
+      "companies": ["Suno", "OpenEvidence", "LangChain (possible)"],
+      "estimated_interceptable_founders": 5,
+      "peak_years": "2013-2022",
+      "key_signals": ["Kensho departures", "S&P Global AI team attrition", "Cambridge AI meetup attendees"],
+      "interception_tactics": [
+        "Map and maintain relationships with former Kensho employees",
+        "Monitor S&P Global AI division for departures",
+        "This is the single most productive talent pipeline discovered in this analysis"
+      ]
+    },
+    {
+      "cluster": "Harvard Business / Economics",
+      "companies": ["Writer", "OpenEvidence"],
+      "estimated_interceptable_founders": 2,
+      "peak_years": "2003-2016",
+      "key_signals": ["PhD students with technical aptitude", "Economics/finance students building AI tools"],
+      "interception_tactics": [
+        "Track Harvard PhD students working at intersection of finance and AI",
+        "Monitor Harvard Business School entrepreneurship programs"
+      ]
+    },
+    {
+      "cluster": "MIT Sloan / Faculty network",
+      "companies": ["Suno", "Databricks"],
+      "estimated_interceptable_founders": 2,
+      "peak_years": "2015-present",
+      "key_signals": ["MIT faculty with startup involvement", "Sloan lecturers with industry backgrounds"],
+      "interception_tactics": [
+        "Attend MIT Sloan events and faculty presentations",
+        "Monitor CSAIL faculty startup activities",
+        "Track visiting lecturers with entrepreneurial backgrounds"
+      ]
+    },
+    {
+      "cluster": "Boston University",
+      "companies": ["Captions"],
+      "estimated_interceptable_founders": 1,
+      "peak_years": "unknown",
+      "key_signals": ["BU CS students with entrepreneurial ambitions"],
+      "interception_tactics": [
+        "Lower-yield but worth monitoring BU CS department for outliers",
+        "BU Spark innovation center"
+      ]
+    }
+  ],
+  "venue_analysis": [
+    {
+      "venue": "MIT EECS Department",
+      "type": "academic_department",
+      "companies_connected": 6,
+      "founders_connected": 12,
+      "priority": "critical"
+    },
+    {
+      "venue": "Harvard CS / SEAS",
+      "type": "academic_department",
+      "companies_connected": 5,
+      "founders_connected": 7,
+      "priority": "critical"
+    },
+    {
+      "venue": "Kensho Technologies (Cambridge)",
+      "type": "startup_hub",
+      "companies_connected": 3,
+      "founders_connected": 5,
+      "priority": "high"
+    },
+    {
+      "venue": "Harvard Physics (PhD labs)",
+      "type": "research_lab",
+      "companies_connected": 1,
+      "founders_connected": 3,
+      "priority": "high"
+    },
+    {
+      "venue": "Harvard NLP Group (Alexander Rush)",
+      "type": "research_lab",
+      "companies_connected": 1,
+      "founders_connected": 1,
+      "priority": "medium"
+    },
+    {
+      "venue": "MIT Sloan",
+      "type": "academic_department",
+      "companies_connected": 2,
+      "founders_connected": 2,
+      "priority": "medium"
+    },
+    {
+      "venue": "Harvard Innovation Lab (i-lab)",
+      "type": "incubator",
+      "companies_connected": 2,
+      "founders_connected": 2,
+      "priority": "medium"
+    },
+    {
+      "venue": "Y Combinator (MIT/Harvard feeder)",
+      "type": "accelerator",
+      "companies_connected": 3,
+      "founders_connected": 5,
+      "priority": "medium"
+    },
+    {
+      "venue": "Thiel Fellowship (Harvard signal)",
+      "type": "fellowship",
+      "companies_connected": 2,
+      "founders_connected": 4,
+      "priority": "medium"
+    },
+    {
+      "venue": "Neo Scholars",
+      "type": "fellowship",
+      "companies_connected": 1,
+      "founders_connected": 4,
+      "priority": "medium"
+    },
+    {
+      "venue": "Boston University CS",
+      "type": "academic_department",
+      "companies_connected": 1,
+      "founders_connected": 1,
+      "priority": "low"
+    }
+  ]
+}
